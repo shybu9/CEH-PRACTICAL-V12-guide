@@ -9,7 +9,7 @@ You might notice a few points that appear more than once in this report, but the
 
 # POINTS THAT NO ONE NOTED
 ## 1. V11 vs V12
-### ~ first of let's understand the changes made in the new CEH v12 practical examination.
+### ~ first of all let's know the changes made in the new CEH v12 practical examination.
 - The new v12 made the exam harder but not impossible, so don't get demotivated.
 - It is not ilabs that conducting the exam, the exam is now been conducted by Cyber Q.
 - The procedure for solving the problem is a bit lengthy and a bit complex.
