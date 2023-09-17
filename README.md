@@ -6,7 +6,7 @@ In this report, I'm skipping the stuff everyone already knows about CEH practica
 You might notice a few points that appear more than once in this report, but there's a reason behind it. Each repetition is intentional and serves to examine the topic from a different angle. It's like looking at a problem through various lenses to truly understand it. We're not just saying the same thing again, but rather emphasizing important aspects from different perspectives. This approach is aimed at helping you grasp the subject better and see the bigger picture.
 
 --------------------------------------------------------------------
---------------------------------------------------------------------
+
 # POINTS THAT NO ONE NOTED
 ## 1. V11 vs V12
 ### ~ first of let's understand the changes made in the new CEH v12 practical examination.
@@ -16,7 +16,7 @@ You might notice a few points that appear more than once in this report, but the
 - Questions were changed ( so those who illegally brought the answer dumps please dump them off.)
 - New topics were added and most of the questions are from these new topics.
 --------------------------------------------------------------------
---------------------------------------------------------------------
+
 ## 2. It's not love, The cloud is in the air:
 - You should realize that the machine you are using during the examination is not your high-end attack machine but the cloud.
 - It could be slow and sometimes very slow.
