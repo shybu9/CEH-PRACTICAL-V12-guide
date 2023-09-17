@@ -1,7 +1,7 @@
 # CEH-PRACTICAL-V12-guide
 new changes made and most underrated things that I know one discussed.
 
-In this report, I'm skipping the stuff everyone already knows about CEH practical training. I trust you're familiar with these basics. My main focus will be on the hidden treasures—the tips and advice that often don't get the attention they deserve. These underrated insights can boost your skills and make a real difference. We'll dig into these less-talked-about aspects, aiming to help you become better at navigating CEH Version 12 Exam.
+In this report, I'm skipping the stuff everyone already knows about CEH practical training. I trust you're familiar with these basics. My main focus will be on the hidden treasures—the tips and advice that often don't get the attention they deserve. These underrated insights can boost your skills and make a real difference. We'll dig into these less-talked-about aspects, aiming to help you become better at navigating the CEH Version 12 Exam.
 
 You might notice a few points that appear more than once in this report, but there's a reason behind it. Each repetition is intentional and serves to examine the topic from a different angle. It's like looking at a problem through various lenses to truly understand it. We're not just saying the same thing again, but rather emphasizing important aspects from different perspectives. This approach is aimed at helping you grasp the subject better and see the bigger picture.
 
@@ -43,7 +43,7 @@ You might notice a few points that appear more than once in this report, but the
 --------------------------------------------------------------------
 ## 7. answers_tmp.txt
 - Note your answers in a temporary file so that when the platform is erased due to any technical issue there will be nothing to worry about.
-- This could happen very rarely and proctors too ask to store answers in file but sometimes they may forget.
+- This could happen very rarely and proctors too ask to store answers in the file but sometimes they may forget.
 - But do not forget to clear them after the examination to be a certified "ETHICAL" hacker.
 --------------------------------------------------------------------
 ## 8. is zenmap for noobs?
@@ -60,7 +60,7 @@ You might notice a few points that appear more than once in this report, but the
 ## 10. 1 module != 1 mark:
 - If you are thinking of leaving a module and it costs only one mark you could lose.
 - The questions are interconnected and secinero-based so you may need to perform some procedures that you might have skipped.
-- Mainly if you are planning to skip modules like cryptography and web app pentesting, then you may regret it.
+- Mainly if you are planning to skip modules like cryptography and web app pen testing, then you may regret it.
 --------------------------------------------------------------------
 ## 11. Not long they are detailed:
 - Most of the questions look too lengthy.
@@ -109,6 +109,10 @@ You might notice a few points that appear more than once in this report, but the
 - But it could be only done if you are genuinely facing the problem and have no other choice.
 --------------------------------------------------------------------
 ## 21. Resources:
-- Once you have completed your preparation, watch youtube playlists created by 'The Penteser Guy' and 'Caveman Tech'
+- Once you have completed your preparation, watch YouTube playlists created by 'The Penteser Guy' and 'Caveman Tech'
 - especially go through the comments of this video[https://youtu.be/GgL6v_OoPEc?si=h2nt_2j-XBsU2ywM]
+--------------------------------------------------------------------
+## 22. Be specific; use specialized:
+- There are tools mentioned in the module that are light and specifically used for a purpose.
+- Use these tools instead of generic tools which would take heavy resources and time for running.
 --------------------------------------------------------------------
