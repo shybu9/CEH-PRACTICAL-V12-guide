@@ -1,5 +1,5 @@
 # CEH-PRACTICAL-V12-guide
-new changes made and most underrated things that I know one discussed.
+new changes made and most underrated things that no one discussed.
 ![cehv12](https://certfirst.com/wp-content/uploads/2023/01/Product-Image-CEHv12-300x300.jpg)
 
 In this report, I'm skipping the stuff everyone already knows about CEH practical training. I trust you're familiar with these basics. My main focus will be on the hidden treasures—the tips and advice that often don't get the attention they deserve. These underrated insights can boost your skills and make a real difference. We'll dig into these less-talked-about aspects, aiming to help you become better at navigating the CEH Version 12 Exam.
