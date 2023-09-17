@@ -16,6 +16,7 @@ You might notice a few points that appear more than once in this report, but the
 - Questions were changed ( so those who illegally brought the answer dumps please dump them off.)
 - New topics were added and most of the questions are from these new topics.
 --------------------------------------------------------------------
+--------------------------------------------------------------------
 ## 2. It's not love, The cloud is in the air:
 - You should realize that the machine you are using during the examination is not your high-end attack machine but the cloud.
 - It could be slow and sometimes very slow.
@@ -109,4 +110,5 @@ You might notice a few points that appear more than once in this report, but the
 --------------------------------------------------------------------
 ## 21. Resources:
 - Once you have completed your preparation, watch youtube playlists created by 'The Penteser Guy' and 'Caveman Tech'
-- specially go through the comments of this video[https://youtu.be/GgL6v_OoPEc?si=h2nt_2j-XBsU2ywM]
+- especially go through the comments of this video[https://youtu.be/GgL6v_OoPEc?si=h2nt_2j-XBsU2ywM]
+--------------------------------------------------------------------
