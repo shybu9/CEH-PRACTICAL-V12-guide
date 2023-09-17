@@ -116,3 +116,7 @@ You might notice a few points that appear more than once in this report, but the
 - There are tools mentioned in the module that are light and specifically used for a purpose.
 - Use these tools instead of generic tools which would take heavy resources and time for running.
 --------------------------------------------------------------------
+
+### Some points might seem trivial, yet these are the very ones I wish I had known earlier.
+### If a point resonates or brings value, a small nod with a star would be gold! Help this post shine for others too. ⭐
+--------------------------------------------------------------------
